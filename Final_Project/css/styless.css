@@ -50,6 +50,8 @@ nav a:hover {
     vertical-align: top;
 }
 
-main {
+#two_col {
     display: flex;
 }
+h1, h2, h3, footer {
+    text-align: center; }

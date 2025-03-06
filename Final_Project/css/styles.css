@@ -9,6 +9,8 @@
             background-color: #ff69b4;
             padding: 2px;
         }
+
+      
         nav ul {
             list-style-type: none;
             padding: 0;
@@ -41,4 +43,30 @@
             border: 2px solid #ff69b4;
             padding: 20px;
         }
+        
+        #banner {
+        width: 100%;
+        }
+        
+        #col1 {
+            width: 50%;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+        
+        #col2 {
+            width: 50%;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
     
+        nav a:hover {
+            background-color: white;
+            color: black;
+        }
+
+        main {
+            display: flex ;
+        }
